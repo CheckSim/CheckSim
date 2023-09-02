@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **AI, Machine Learning**
 
-- 💬 Ask me about **python, MATLAB, Data Analysis**
+- 💬 Ask me about **Data Science with python, Data Analysis, Data Visualization**
 
 - 📫 How to reach me **smn.ccc@gmail.com**
 
