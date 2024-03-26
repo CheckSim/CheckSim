@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simone</h1>
-<h3 align="center">A passionate Italian Data Analyst</h3>
+<h3 align="center">A passionate Italian Data Scientist</h3>
 
 - 🌱 I’m currently learning **AI, Machine Learning**
 
