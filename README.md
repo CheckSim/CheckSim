@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Simone</h1>
 <h3 align="center">A passionate Italian Data Scientist</h3>
 
-- 🌱 I’m currently learning **AI, Machine Learning**
+- 🌱 I’m currently working as **Data Scientist** and **AI Engineer**
 
 - 💬 Ask me about **Data Science with python, Data Analysis, Data Visualization**
 
-- 📫 How to reach me **smn.ccc@gmail.com**
+- 📫 How to reach me: feel free to contact me on <a href="https://linkedin.com/in/simonececconi" target="blank">LinkedIn</a>
 
 - ⚡ Fun fact **I'm also a rock climber**
 
