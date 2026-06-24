@@ -1,19 +1,73 @@
-<h1 align="center">Hi 👋, I'm Simone</h1>
-<h3 align="center">A passionate Italian Data Scientist</h3>
+<h1 align="center">Hi 👋, I'm CheckSim</h1>
 
-- 🌱 I’m currently working as **Data Scientist** and **AI Engineer**
+<h3 align="center">AI Engineer & Indie Hacker | Building in Public</h3>
 
-- 💬 Ask me about **Data Science with python, Data Analysis, Data Visualization**
-
-- 📫 How to reach me: feel free to contact me on <a href="https://linkedin.com/in/simonececconi" target="blank">LinkedIn</a>
-
-- ⚡ Fun fact **I'm also a rock climber**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/simonececconi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simonececconi" height="30" width="40" /></a>
-<a href="https://instagram.com/_simone_cecconi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_simone_cecconi_" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/simonececconi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://prototypelog.substack.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Newsletter-Prototype%20Log-orange?style=for-the-badge&logo=substack" alt="Newsletter" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+### 🚀 About Me
+
+AI Engineer & Data Scientist passionate about building data-driven products that solve real problems. I specialize in **Agentic AI**, **RAG systems**, and **machine learning production pipelines**. As an Indie Hacker, I build and ship projects in public, applying Lean Startup principles to ensure every technical solution delivers measurable business value.
+
+My focus is on creating tools that users actually need — from bus comparators to AI-powered assistants.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Libraries:** Python, SQL, Pandas, Scikit-learn, NumPy, LangChain, LangGraph, CrewAI, Streamlit, Flask, HTML/CSS
+
+**AI & ML:** Agentic AI, Multi-agent Systems, RAG, Large Language Models, Machine Learning, Data Quality Monitoring
+
+**DevOps & Cloud:** Azure, AWS, Docker, Git/GitHub, CI/CD
+
+**Tools:** Power BI, LLMOps
+
+---
+
+### 🌐 Indie Projects
+
+#### RoadToAbruzzo
+A free bus comparator connecting Rome (Tiburtina, Fiumicino) to Abruzzo cities (Pescara, L'Aquila, etc.). Born from the frustration of opening five different websites to compare schedules and prices. Completely independent — no investors or booking commissions. Built entirely by me with a full refactoring in 2025 (redesigned UI, multilingual support, best-price labels, scalable backend). Currently serving hundreds of monthly searches.
+
+🌐 [roadtoabruzzo.it](https://www.roadtoabruzzo.it)
+
+#### Prostate Cancer Predictor
+Improved an existing classifier's accuracy by **4%** for prostate cancer prediction at Bologna's Sant'Orsola Hospital, using a linear regression ML model. Academic research collaboration focused on real-world medical applications.
+
+🔗 [github.com/PSMA_PET_ML](https://bit.ly/PSMA_PET_ML)
+
+#### wAIter
+An AI waiter for pizza restaurants — reimagining how small businesses can leverage conversational AI for order management and customer interaction.
+
+#### Other Projects
+- **RAG Chatbot for Office Of Cards** — AI-powered podcast documentation assistant  
+- **TrovaBorghi** — Utility webapp for exploring Italian villages  
+
+---
+
+### 🌍 Languages
+
+English (Fluent), Italian (Native), Spanish (Fluent)
+
+---
+
+### 🎯 Beyond Code
+
+Chess, 3D Printing, Rock Climbing, Snorkeling, Open Source, OSINT
+
+---
+
+<p align="center">
+  <a href="https://github.com/CheckSim" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=social&logo=github" alt="GitHub" />
+  </a>
+</p>
