@@ -9,6 +9,9 @@
   <a href="https://prototypelog.substack.com/" target="_blank">
     <img src="https://img.shields.io/badge/Newsletter-Prototype%20Log-orange?style=for-the-badge&logo=substack" alt="Newsletter" />
   </a>
+  <a href="https://x.com/CheckSimo" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=x" alt="Twitter" />
+  </a>
 </p>
 
 ---
